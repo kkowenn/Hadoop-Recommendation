@@ -81,3 +81,7 @@ Before you begin, ensure you have met the following requirements:
      ```bash
      hdfs dfs -cat /hdfs/output/path/part-r-00000
      ```
+### Project: 
+
+**Project1:**
+Java classes for word counting, including drivers, mappers, and reducers. It processes beer reviews from a CSV file, generates word counts, and outputs results in a designated directory. The project is executed via JAR files using Hadoop's command-line interface.
